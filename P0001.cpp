@@ -20,8 +20,3 @@ int solution(string s) {
         answer *= -1;
     return answer;
 }
-
-int main(void) {
-    cout << solution("1234") << endl;
-    return 0;
-}
